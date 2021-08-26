@@ -73,26 +73,38 @@ p{
 }
 
 section h1{
-    font-size: 46px;
-    font-weight: 900;
+    font-size: 40px;
+    font-weight: 600;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 h3{
+    margin-top: 50px;
     margin-left: 50px;
-    font-size: 18px;
+    font-size: 24px;
 }
-footer{
-    text-align: center;
-    margin-bottom: 50px;
+h4{
+    margin-left: 50px;
+    margin-top: 20px;
 }
 
 .boxmd{
-    border: 7px solid;
     box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+    margin-bottom: 30px;
 }
 
-
-
+footer p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 50px;
+}
+footer p a{
+    text-decoration: none;
+    color: purple;
+}
 
 
 
